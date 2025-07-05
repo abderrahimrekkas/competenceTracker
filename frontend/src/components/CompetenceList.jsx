@@ -1,5 +1,3 @@
-
-
 import { useEffect, useState } from 'react';
 import api from '../services/api';
 import { CheckCircle, XCircle } from 'lucide-react';
